@@ -1,1 +1,0 @@
-write a program that sum the prime factors not greator than x
